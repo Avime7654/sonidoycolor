@@ -1,0 +1,2 @@
+# sonidoycolor
+trabajo de iniciación
